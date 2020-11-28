@@ -1,0 +1,22 @@
+body {
+  background-color: #f6f6f6;
+}
+.heading {
+  font-family: PlayfairDisplay;
+  font-size: 20px;
+  letter-spacing: 0.6px;
+}
+.container-style {
+  background-color: white;
+  border-radius: 10px;
+  font-family: Inter;
+  margin-left: auto;
+}
+sup {
+  color: #fb5678;
+}
+.btn {
+  font-family: inter;
+  font-size: 14px;
+  width: 200px;
+}
